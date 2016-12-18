@@ -1,0 +1,4 @@
+web/*pyc
+web/test*
+data/*model
+**swp
